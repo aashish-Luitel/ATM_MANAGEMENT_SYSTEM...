@@ -15,13 +15,13 @@ A Python-based ATM simulation with user authentication, balance management, depo
 ## 📸 Screenshots
 
 ### Main Menu
-![ATM Main Menu](screenshot1.png)
+![ATM Main Menu](Screenshot 2026-08-17 153247.png)
 
 ### Withdrawal
-![ATM Withdrawal](screenshot2.png)
+![ATM Withdrawal](Screenshot 2026-08-17 153541.png)
 
 ### Deposit
-![ATM Deposit](screenshot3.png)
+![ATM Deposit](Screenshot 2026-08-17 153617.png)
 
 ## 🛠️ Built With
 
